@@ -40,6 +40,7 @@ PARA pruža jednostavnu strukturu za spremanje bilo koje informacije unutar ta �
 Za razliku od PARA, **ACE sustav** više rezonira s akademskim i misaonim radom jer jasno odvaja trajno znanje (Atlas) od vremenski vezanih zapisa (Calendar) i trenutnog angažmana (Efforts), čime potiče bolje povezivanje i refleksiju u radu.
 
 **Napomena:** Ne postoji jedinstveni pristup koji svima odgovara – ovo su samo neke ideje koje  ćemo kombinirati i prilagoditi osobnim stilovima vođenja bilješki. Bitno je razumjeti _zašto_ vodimo bilješke: kako bismo rasteretili mozak, bolje učili, te imali bazu znanja koju možemo pretraživati, povezivati i koristiti za **kreiranje novih ideja** ili materijala.
+
 ## 2. Faze upravljanja znanjem: unos, organizacija, povezivanje, korištenje
 
 **Upravljanje osobnim informacijama i znanjem** možemo raščlaniti na nekoliko faza kroz koje informacija prolazi. Tijekom radionice upoznat ćemo se s praksama i alatima za svaku od navedenih faza. 
@@ -171,6 +172,7 @@ Predložena inicijalna struktura vaulta (folderi na root razini):
 - Tagovi su brzi način označavanja teme ili statusa (npr. #ideja, #treba-razraditi, #literatura). Tagovi su globalni, ne moraju se nalaziti u nekoj “nadređenoj” bilješci i možete jednoj bilješci dodati više tagova. Kasnije ih možete filtrirati ili vizualizirati. Tagovi su odlični za povezivanja sadržaja unutar kategorija – npr. tag #članak može ići uz sve bilješke koje su sažeci članaka, bez obzira u kojem su folderu.
 
 Kroz praksu ćemo postupno razviti osjećaj za ono što nam je potrebno – ne brinite ako sada ne možete predvidjeti savršen sustav. Krenite s jednostavnom strukturom i dopustite da se prilagodi vašem stilu bilježenja.
+
 ## 7. Povezivanje bilješki: linkovi, reference i graf
 
 Jedna od najvećih snaga Obsidiana je lakoća kojom možete **povezivati bilješke**. Već smo spomenuli sintaksu za unutarnje linkove `[[ ... ]]`. Sada ćemo to isprobati i objasniti povezane značajke.
